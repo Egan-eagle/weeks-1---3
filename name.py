@@ -45,3 +45,12 @@ def fib(n):
 x = 19
 ans = fib(x)
 print("Fibonacci number", x, "is", ans)
+
+Re: Fibonacci exercise responses
+by EGAN MTHEMBU - Wednesday, 24 January 2018, 11:12 PM
+ 
+Egan : E + N = 19, Fibonacci Number = 4181
+
+C:\Users\ppc\Desktop\Fibonacci>python fib3.py
+
+Fibonacci number 19 is 4181
