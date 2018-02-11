@@ -26,8 +26,31 @@ print("The first letter", first, "is number", firstno)
 print("The last letter", last, "is number", lastno)
 print("Fibonacci number", x, "is", ans)
 
+#COMMENT
+Re: Week 2 task
+by EGAN MTHEMBU - Saturday, 3 February 2018, 6:47 PM
+ 
+C:\Users\egan\Desktop\fib.py\WEEK2>python test.py
 
-WEEK1
+My surname is Mthembu
+
+The first letter M is number 77
+
+The last letter u is number 117
+
+Fibonacci number 194 is 15635695580168194910579363790217849593217
+
+ord(c)
+Given a string representing one Unicode character, return an integer representing the Unicode code point of that character. For example,ord('a') returns the integer 97 and ord('€') (Euro sign) returns 8364. This is the inverse of chr().
+
+i.e
+firstno = ord(first) M = 77
+lastno = ord(last)  U = 117
+x = firstno + lastno  =  194
+Fibonacci number 194 is 15635695580168194910579363790217849593217
+
+
+WEEK1 EXERCISE
 
 # Egan Mthembu 24.01.2018
 # A program that displays Fibonacci numbers.
